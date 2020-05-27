@@ -1,0 +1,3 @@
+walkink::[walking]
+aisly::[aisle]
+way::[was]
